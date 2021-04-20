@@ -1,0 +1,10 @@
+
+1)Crear CRM Trial
+2) Crear GIT
+3) Crear Solucion
+4) Modificar formulario Account/Contacto
+5) Javascript Onload Account
+
+Url:  https://infoavan.crm2.dynamics.com/
+User: fededamis@infoavancrm.onmicrosoft.com
+Pass: Infoavan$2021 
