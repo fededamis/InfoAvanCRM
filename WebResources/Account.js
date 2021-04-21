@@ -1,7 +1,6 @@
 
 function OnLoad(context)
-{
-    debugger;  
+{    
     var formContext = context._formContext; 
     var formType = formContext.ui.getFormType();  
 
@@ -36,8 +35,5 @@ function OnLoad(context)
             var error = "[OnLoad Error]: " + error.message;
             formContext.ui.setFormNotification(error, "ERROR", "contactQualificationMean");
         }
-    );
-
-    //TODO: REALIZAR A TRAVES DE CUSTOM ACTION
-
+    );   
 }

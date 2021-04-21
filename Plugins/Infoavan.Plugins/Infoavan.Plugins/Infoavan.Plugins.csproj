@@ -70,6 +70,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalculateMeanByType.cs" />
     <Compile Include="CalculateMeanQuali.cs" />
     <Compile Include="HttpGetContactApi.cs" />
     <Compile Include="PluginContext.cs" />
